@@ -1,4 +1,4 @@
-# Juego de las Mezclas de los colores Primarios
+# Juego de las Mezclas de los Colores Primarios
 
 ![Juego de las Mezclas de los colores Primarios](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/0013JColores/JC03.jpg)
 
